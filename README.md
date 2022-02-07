@@ -10,6 +10,7 @@
 I'm a:
 - **Software Engineer** :v::v::v:
 - Developer :v:
+	
 ---
 
 ### Languages & Frameworks
@@ -20,6 +21,8 @@ I'm a:
 - ReactNative
 - PHP
 - Laravel
+	
+---
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=frxdude&theme=react&show_icons=true&include_all_commits=true" />
