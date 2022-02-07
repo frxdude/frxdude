@@ -30,10 +30,9 @@ I'm a:
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=frxdude&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frxdude&theme=react&layout=compact" />
 </p>
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-</details>
-    
+	
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+	
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
 	<a href="mailto:goodaberg103@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
