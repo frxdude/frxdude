@@ -9,7 +9,8 @@
   
 I'm a:
 - **Software Engineer** :v::v::v:
-- Developer :v:
+- FullStack Developer :v::v:
+- DevOps :v:
 	
 ---
 
@@ -17,6 +18,7 @@ I'm a:
 - Native Java
 - Android
 - Spring Boot
+- NodeJS
 - ReactJS
 - ReactNative
 - PHP
