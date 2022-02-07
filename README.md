@@ -1,5 +1,8 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/frxdude">Sainjargal<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Competitive+Programmer;%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
     
+</p>
 <p align="center">
     <img width="200" src="https://github.com/frxdude/frxdude/blob/main/me.jpeg">
 </p>
@@ -25,3 +28,79 @@ I'm a:
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
+    
+
+## Tech Stack :computer:
+
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+</td>
+
+<td align="center" width="20%">
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+</td>
+
+<td align="center" width="20%">
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+</td>
+
+
+
+<td align="center" width="20%">
+<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+    
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<p align="center">
+	<a href="mailto:goodaberg103@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/frxdude"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/frx.ten"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/_smbdy_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
