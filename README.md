@@ -1,6 +1,6 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/frxdude">Sainjargal<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Competitive+Programmer;%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Competitive+Programmer;%20Design+Pattern%20|%20OOP%20|%20Data+Structures%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
     
 </p>
 <p align="center">
