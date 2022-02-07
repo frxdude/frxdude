@@ -89,14 +89,6 @@ I'm a:
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </kbd>
 </p>
-- Native Java
-- Android
-- Spring Boot
-- NodeJS
-- ReactJS
-- ReactNative
-- PHP
-- Laravel
 	
 ---
 
@@ -106,6 +98,10 @@ I'm a:
 </p>
 	
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div> -->
 	
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
