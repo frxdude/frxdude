@@ -10,7 +10,6 @@
 I'm a:
 - **Software Engineer** :v::v::v:
 - FullStack Developer :v::v:
-- DevOps :v:
 	
 ---
 
