@@ -12,6 +12,8 @@ I'm a:
 - FullStack Developer :v::v:
 	
 ---
+	
+![](https://komarev.com/ghpvc/?username=frxdude)
 
 ### Languages & Frameworks
 
