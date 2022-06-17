@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/frxdude">Sainjargal<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+# <h1 align="center">Hi, I'm <a href="https://github.com/frxdude">Sainjargal<a></h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Competitive+Programmer;%20Design+Pattern%20|%20OOP%20|%20Data+Structures%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
     
@@ -110,7 +110,7 @@ I'm a:
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div> -->
 	
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## Connect with me
 	
 <p align="center">
 	<a href="mailto:goodaberg103@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
