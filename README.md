@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/frxdude">Sainjargal<a></h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Competitive+Programmer;%20Design+Pattern%20|%20OOP%20|%20Data+Structures%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-    
+     
 </p>
 <p align="center">
     <img width="200" src="https://github.com/frxdude/frxdude/blob/main/me.jpeg">
