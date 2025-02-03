@@ -1,6 +1,6 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/frxdude">Sainjargal<a></h1>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Competitive+Programmer;%20Design+Pattern%20|%20OOP%20|%20Data+Structures%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;%20Design+Pattern%20|%20OOP%20|%20Data+Structures%20;Always%20learning%20new%20things;CTF%20lover&center=true&width=500&height=50">
      
 </p>
 <p align="center">
@@ -9,7 +9,7 @@
   
 I'm a:
 - **Software Engineer**
-- FullStack Developer
+- Fullstack Developer
 	
 ---
 
@@ -88,7 +88,6 @@ I'm a:
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
@@ -105,6 +104,8 @@ I'm a:
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   </kbd>
 </p>
 	 
