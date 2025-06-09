@@ -10,6 +10,7 @@
 I'm a:
 - **Software Engineer**
 - Fullstack Developer
+- CTF lover
 	
 ---
 
