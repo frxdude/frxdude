@@ -85,7 +85,7 @@ I'm a:
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
   </kbd>
   <kbd>
-    <kbd>Terminal Scripts</kbd>
+    <kbd>Shell Scripts</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
