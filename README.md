@@ -1,4 +1,6 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/frxdude">Sainjargal<a></h1>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frxdude)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;%20Design+Pattern%20|%20OOP%20|%20Data+Structures%20;Always%20learning%20new%20things;CTF%20lover&center=true&width=500&height=50">
      
