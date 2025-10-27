@@ -122,6 +122,8 @@ I'm a:
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frxdude&theme=react&layout=compact" />
 <!--   <img height= "150" src="[https://github-readme-streak-stats.herokuapp.com/?user=frxdude&](https://github-readme-streak-stats.herokuapp.com/?user=frxdude&)" alt="frxdude" /> -->
 </p>
+
+[![An image of @frxdude's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/frxdude)](https://holopin.io/@frxdude)
 	
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg)
